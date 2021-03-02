@@ -1,0 +1,12 @@
+[submodule "app/hub"]
+	path = app/hub
+	url = git@github.com:getcandy/hub.git
+[submodule "packages/nuxt-client"]
+	path = packages/nuxt-client
+	url = git@github.com:getcandy/nuxt-client.git
+[submodule "hub-core"]
+	path = hub-core
+	url = git@github.com:getcandy/hub-core.git
+[submodule "packages/js-client"]
+	path = packages/js-client
+	url = git@github.com:getcandy/js-client.git
